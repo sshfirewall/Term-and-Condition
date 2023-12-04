@@ -2,7 +2,7 @@
 Term and Conditions
 
 # Gasra CS Term and Condition
-At Gasra CS, accessible from drive.google.com/file/d/1KM641gXCgIohDLKCfDn6roqNQ-dd0cs4/view?usp=sharing, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Gasra CS and how we use it.
+At Gasra CS, accessible from [drive.google.com/file/d/1KM641gXCgIohDLKCfDn6roqNQ-dd0cs4/view?usp=sharing](https://drive.google.com/file/d/1KM641gXCgIohDLKCfDn6roqNQ-dd0cs4/view), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Gasra CS and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
