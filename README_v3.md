@@ -26,8 +26,54 @@ We use the information we collect in various ways, including to:
 - Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the app, and for marketing and promotional purposes
 - Send you emails
 - Find and prevent fraud
+
 # Log Files
 Gasra v.3 follows a standard procedure of using log files. These files log visitors when they visit apps. All hosting companies do this and a part of hosting services' analytiv.3. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the app, and gathering demographic information.
+
+1. Information We Collect
+The Application may collect the following types of information:
+1.1 Location Information
+
+The Application may access device location data (GPS or network-based location).
+Location data may be collected:
+1. When the app is running
+2. When certain features require location services
+3. Purpose of Location Data
+
+Location information is used for:
+1. Determining the user's operational location
+2. Supporting service features that require geographic data
+3. Improving service accuracy and application functionality
+4. The Application does not track location continuously in the background unless required by the application feature.
+
+Location data is not sold or shared with third parties for advertising purposes.
+1.2 Device Information
+We may collect limited device information including:
+1. Device model
+2. Operating system version
+3. App version
+4. Device identifiers
+
+This information is used to:
+1. Maintain application performance
+2. Diagnose technical issues
+3. Improve compatibility
+
+1.3 Log Data
+When using the Application, our system may automatically collect log information such as:
+1. Access time
+2. Error logs
+3. Application activity
+
+These logs are used strictly for system monitoring and troubleshooting.
+
+2. How We Use Your Information
+The collected data is used to:
+1. Provide application services
+2. Improve application functionality
+3. Diagnose and fix technical problems
+4. Ensure security and system stability
+5. We do not sell personal data to third parties.
 
 # Third Party Privacy Policies
 Gasra v.3's Privacy Policy does not apply to other advertisers or apps. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
